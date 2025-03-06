@@ -113,9 +113,6 @@
 - Создание прототипа в Figma
 - Swagger документация
 
-<video width="640" height="360" controls>
-  <source src="videos/Prezent.mp4" type="video/mp4">
-  Ваш браузер не поддерживает тег video.
-</video>
+<img src="videos/Prezent.gif" alt="Пример анимации" width="250" />
 
 
