@@ -1,0 +1,54 @@
+body {
+    font-family: Georgia, serif; /* Устанавливает шрифт Georgia для всего текста */
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: red; /* Устанавливает цвет текста заголовков на красный */
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+p, ul, ol {
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+ul, ol {
+    padding-left: 20px;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+blockquote {
+    border-left: 4px solid #7f8c8d;
+    padding-left: 15px;
+    color: #7f8c8d;
+}
+
+code, pre {
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+pre {
+    overflow: auto;
+}
