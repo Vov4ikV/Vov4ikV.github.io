@@ -8,7 +8,7 @@ body {
     color: #333;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     color: #2c3e50;
 }
 
@@ -29,6 +29,13 @@ h3 {
     margin-top: 20px;
     color: #951ce6;
 }
+
+h4 {
+    font-size: 1.25em;
+    margin-top: 20px;
+    color: #951ce6;
+}
+
 
 a {
     color: #3498db;

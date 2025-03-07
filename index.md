@@ -111,10 +111,27 @@
 - Разработка спецификации для проектной работы
 - Сбор требований на основе интервью с заказчиком
 - USE CASE диаграмма
+
+<img src="images/Use Case_My mobile_ operator.png" alt="Use Case диаграмма проекта" width="250" />
+
+[Ссылка на диаграмму](https://drive.google.com/file/d/1S6CHcV3lED6QVnKFl0zZ97xDD_v-GeXf/view?usp=drive_link)
+
 - Формализация требований
 - ER-диаграмма
+ 
+<img src="images/ERD 4ydoApp.png" alt="ER-диаграмма проекта" width="250" />
+
+[Ссылка на диаграмму](Uhttps://drive.google.com/file/d/1neO2cMQHan3gyL0xfzBEeqSNJk-7ggYL/view?usp=sharingRL)
+
 - Создание прототипа в Figma
+
+[Ссылка на макет в Figma](https://www.figma.com/design/VM3AspZmieyuRpEANSAOll/GoodApp?node-id=0-1&t=o37iUj0tD71fhjPk-1)
+
 - Swagger документация
+
+[Ссылка на Swagger-документацию:](https://app.swaggerhub.com/apis/VladimirDerkach/ChudoApp/1.0.0)
+
+## Видео итоговой презентации
 
 <img src="videos/Prezent.gif" alt="Пример анимации" width="250" />
 
@@ -125,3 +142,7 @@
 <img src="images/Diplom_1.jpg" alt="Свидетельство об успешном прохождении курса" width="250" />
 
 <img src="images/Diplom_2.jpg" alt="Свидетельство об успешном прохождении курса" width="250" />
+
+#### 4. Программы в которых практиковалось написание кода:
+- Visual Studio Code
+- PyCharm
