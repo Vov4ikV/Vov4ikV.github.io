@@ -112,7 +112,7 @@
 - Сбор требований на основе интервью с заказчиком
 - USE CASE диаграмма
 
-<img src="Use_Case.png" alt="Use Case диаграмма проекта" width="250" />
+<img src="images/UseCase.png" alt="USE CASE диаграмма проекта" width="250" />
 
 [Ссылка на диаграмму](https://drive.google.com/file/d/1S6CHcV3lED6QVnKFl0zZ97xDD_v-GeXf/view?usp=drive_link)
 
